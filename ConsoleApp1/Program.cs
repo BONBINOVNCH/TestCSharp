@@ -1,4 +1,2 @@
-﻿Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("Hello, Worldddddddddddddd!");
 
-int number = 1;
-Console.WriteLine(number);
